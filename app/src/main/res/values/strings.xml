@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">multi-login</string>
+    <string name="users">Select User</string>
+    <string-array name="users_list">
+        <item>Admin</item>
+        <item>Lecturer</item>
+        <item>Student</item>
+    </string-array>
+</resources>

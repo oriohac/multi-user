@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059513667184",
+    "project_id": "multi-login-cdc06",
+    "storage_bucket": "multi-login-cdc06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059513667184:android:737cac6fdc037d85926eb5",
+        "android_client_info": {
+          "package_name": "com.example.multi_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059513667184-su88es38pe4nv8vjnmk4a9blnisvrnhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7RngxIAI2X1D96uv2BWPmU_L3FGGivo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059513667184-su88es38pe4nv8vjnmk4a9blnisvrnhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
