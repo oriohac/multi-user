@@ -22,15 +22,12 @@ class MainActivity : AppCompatActivity() {
 
         loginbtn.setOnClickListener {
             loginUser()
-            //gotoAdmin()
+
         }
 
     }
 
-    fun gotoAdmin(){
-        var intent = Intent(this, Admin::class.java)
-        startActivity(intent)
-    }
+
 
     private fun loginUser() {
         val Password: String = loginpassword?.text.toString()
